@@ -1,0 +1,34 @@
+.confirma{
+    justify-content: center;
+    padding-left: 39%;
+}
+
+.texto{
+    padding-left: 36%;
+}
+
+.imagem-reduzida {
+    width: 17%;
+    display: flex;
+    padding-left: 40%;
+    position: relative;
+  }
+
+header {
+    border-bottom: solid 5px #f56a6a;
+}
+
+.botao{  
+    background-color: #45a049;
+    color: white;
+    padding: 10px 20px;
+    font-size: 17px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 110%;
+    display: flex;
+    width: 60%;
+    outline: none;
+    text-decoration: none;
+}
